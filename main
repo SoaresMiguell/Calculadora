@@ -1,0 +1,20 @@
+while True:
+ nm1 = float (input("Qual é o primeiro numero? "))
+ nm2 = float (input("Qual é o segundo numero? "))
+ op = input("Qual é a operação (+, -, *, /)")
+
+ if op == "+":
+    print(nm1 + nm2)
+ elif op == "-":
+    print(nm1 - nm2)
+ elif op == "*":
+    print(nm1 * nm2)
+ elif op == "/":
+    if nm2 == 0:
+        print("Você não pode dividir por 0, então a resposta é: ",nm1)
+    else:
+        print(nm1 / nm2)
+   
+ else:
+    print("Você digitou errado tente novamente")
+#by Miguel Soares
