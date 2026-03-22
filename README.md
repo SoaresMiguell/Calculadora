@@ -17,9 +17,5 @@ Uma calculadora simples feita em Python que realiza operações básicas diretam
 ## 💻 Como usar
 
 ### ▶️ Rodando com Python
-1. Baixe o arquivo `calculadora.py`
-2. Abra o terminal (CMD)
-3. Execute:
-
-```bash
-python calculadora.py
+1. Baixe o arquivo `calculadora.exe`
+2. Execute, pronto!
